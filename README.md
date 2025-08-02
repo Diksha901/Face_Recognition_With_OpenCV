@@ -49,6 +49,8 @@ face_recognition/
        ---->face_recognition.py
        
        ---->webFilter.py
+
+       ---->FinalCode.py
        
 ---->venv(gitignored) 
 
